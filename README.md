@@ -1,5 +1,6 @@
-Here's a combined README file that includes both the instructions on using the application and the setup guide for running the Node.js server with an SQL database.
+Here's a  file that includes both the instructions on using the application and the setup guide for running the Node.js server with an SQL database.
 
+[Live Demo](https://visitingcardgenerator.netlify.app/)
 
 
 # Template Creator
@@ -33,13 +34,13 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/template-creator.git
+   git clone  https://github.com/SHETYGURU/VisitingCard_Geneartor_FireBase-Sql.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd template-creator
+   cd  https://github.com/SHETYGURU/VisitingCard_Geneartor_FireBase-Sql.git
    ```
 
 3. **Install Dependencies**
